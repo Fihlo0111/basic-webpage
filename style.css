@@ -1,0 +1,15 @@
+p {   /* if we dont have the id u can select it as P */
+    color: purple;
+    font-size: 21px;
+  
+  }
+ 
+  .second-p{
+color: pink;
+background-color: burlywood;
+width: 500px;
+height: 3;
+/* overflow: scroll; */
+  }
+  /* if u want to have multiple lines using a string we use back tick "`"e.g `hddedd
+                                                                              jrgcsys` */
